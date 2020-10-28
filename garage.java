@@ -8,10 +8,12 @@ public class garage {
         car1.make="BMW";
         car1.model="i8";
         car1.size=4;
+        car1.power="2500cc";
         System.out.println(car1.numberofDoors);
         System.out.println(car1.color);
         System.out.println(car1.make);
         System.out.println(car1.model);
         System.out.println(car1.size);
+        System.out.println(car1.power);
     }
 }

@@ -7,5 +7,5 @@ public class car {
      int size;
      String make;
      String model;
-
+     String power;
 }
