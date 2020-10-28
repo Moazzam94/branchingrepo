@@ -8,7 +8,4 @@ public class car {
      String make;
      String model;
 
-     String transmission;
-     String LCD;
-
 }
