@@ -17,5 +17,11 @@ public class garage {
         System.out.println(car1.model);
         System.out.println(car1.size);
         System.out.println(car1.power);
+
+        car car2=new car();
+        car2.numberofDoors=4;
+        car2.color="black";
+        car2.make="BMW";
+        car1.Led="Yes";
     }
 }
